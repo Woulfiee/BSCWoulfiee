@@ -1,0 +1,5 @@
+name: Sojusz
+main: io.github.woulfiee.ally.Ally
+version: 1.0
+commands:
+  sojusz:
